@@ -98,6 +98,14 @@
 </p>
 
 
-### 📑 Certificados
+### 📑 Certificações
 
 <p> IBSEC - Segurança em linux</p>
+<p> IBSEC - Boas Práticas de Cibersegurança</p>
+<p> IBSEC - Analista SOC</p>
+<p> IBSEC - Pentester</p>
+<p> DESEC - Indrodução a pentest</p>
+<p> IBSEC - Segurança em linux</p>
+<p> Microsoft - SC - 900</p>
+<p> Sec4Us - Hacking Essentials</p>
+
