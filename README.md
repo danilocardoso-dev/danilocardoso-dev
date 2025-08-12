@@ -1,10 +1,16 @@
 # 👩🏻‍💻 Danilo Cardoso
 
-**`Programador | Cibersecurity Pentest`**
+**`Programmer | Cybersecurity Pentester`**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### About Me
+
+I am a passionate cybersecurity enthusiast and programmer, focused on penetration testing and secure software development. Experienced with full-stack technologies and constantly expanding my knowledge in security practices to deliver effective and reliable solutions.
+
+---
+
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -84,7 +90,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <p>
 
@@ -92,7 +98,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocardoso-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocardoso-dev&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
   />
 
 </p>
@@ -106,14 +112,23 @@
 <br/>
 <br/>
 
-### 📑 Certificações
+### 📑 Certifications
 
-<p> IBSEC - Segurança em linux</p>
-<p> IBSEC - Boas Práticas de Cibersegurança</p>
-<p> IBSEC - Analista SOC</p>
-<p> IBSEC - Pentester</p>
-<p> DESEC - Indrodução a pentest</p>
-<p> IBSEC - Segurança em linux</p>
-<p> Microsoft - SC 900</p>
-<p> Sec4Us - Hacking Essentials</p>
+- IBSEC - Linux Security  
+- IBSEC - Cybersecurity Best Practices  
+- IBSEC - SOC Analyst  
+- IBSEC - Pentester  
+- DESEC - Introduction to Pentesting  
+- Microsoft - SC-900 Security, Compliance, and Identity Fundamentals  
+- Sec4Us - Hacking Essentials  
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/danilo-vin%C3%ADcius-4ba802230/) or check out my projects on [GitHub](https://github.com/danilocardoso-dev).  
+
+I’m open to exciting opportunities in cybersecurity and software development!
+
+---
 
