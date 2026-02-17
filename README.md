@@ -1,32 +1,31 @@
-# 👩🏻‍💻 Danilo Cardoso
+# 👨🏻‍💻 Danilo Cardoso
 
-**`Programmer | Cybersecurity Pentester`**
-
----
-
-### About Me
-
-I am a passionate cybersecurity enthusiast and programmer, focused on penetration testing and secure software development. Experienced with full-stack technologies and constantly expanding my knowledge in security practices to deliver effective and reliable solutions.
+**`Full Stack Software Engineer | Backend-Focused | JavaScript (Node.js, React, React Native) | Security-Oriented Development`**
 
 ---
 
-### 🤖 Languages & Technologies
+## 🧠 About Me
 
+Software Engineer with 5+ years of experience building production-grade web and mobile applications, working across backend, frontend, APIs, and database architecture.
+
+Strong expertise in JavaScript and its ecosystem (Node.js, React, React Native), SQL/NoSQL databases, REST API development, and scalable system design — especially in healthcare and management platforms where reliability, access control, and data integrity are critical.
+
+Academic background in Cybersecurity, applying secure coding principles and security-first thinking when designing systems.
+
+Currently focused on backend architecture, clean code, and building robust, maintainable systems.
+
+---
+
+## ⚙️ Core Technologies
+
+### 🚀 Backend
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -46,6 +45,26 @@ I am a passionate cybersecurity enthusiast and programmer, focused on penetratio
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/><br/>
+
+- REST API Development  
+- Authentication & Authorization (RBAC concepts)  
+- SQL & NoSQL Databases  
+- Data Modeling  
+- System Design Fundamentals  
+
+---
+
+### 💻 Frontend & Mobile
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -54,22 +73,22 @@ I am a passionate cybersecurity enthusiast and programmer, focused on penetratio
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="React Native"
+    title="React Native" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+<br/><br/>
 
+- Component-Based Architecture  
+- API Integration  
+- Performance & Maintainability  
+
+---
+
+### 🛠️ Tools & Environment
 <img 
     align="left" 
     alt="Git" 
@@ -80,27 +99,40 @@ I am a passionate cybersecurity enthusiast and programmer, focused on penetratio
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
-<br/>
-<br/>
+<br/><br/>
 
-### 📊 GitHub Stats
+- Version Control (Git)  
+- Linux Environments  
+- Secure Coding Practices  
+- Clean Code & Maintainability  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Backend Development  
+- Scalable System Architecture  
+- Writing secure and production-ready code  
+- Continuous improvement in English for global opportunities  
+
+---
+
+## 📊 GitHub Stats
 
 <p>
-
 <img 
       align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocardoso-dev&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
-  />
-
+      alt="Top Languages" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocardoso-dev&theme=tokyonight&layout=compact&langs_count=8" 
+/>
 </p>
 
 <br/>
@@ -108,27 +140,14 @@ I am a passionate cybersecurity enthusiast and programmer, focused on penetratio
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
-### 📑 Certifications
-
-- IBSEC - Linux Security  
-- IBSEC - Cybersecurity Best Practices  
-- IBSEC - SOC Analyst  
-- IBSEC - Pentester  
-- DESEC - Introduction to Pentesting  
-- Microsoft - SC-900 Security, Compliance, and Identity Fundamentals  
-- Sec4Us - Hacking Essentials  
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Connect
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/danilo-vin%C3%ADcius-4ba802230/) or check out my projects on [GitHub](https://github.com/danilocardoso-dev).  
-
-I’m open to exciting opportunities in cybersecurity and software development!
+- 🔗 LinkedIn: https://www.linkedin.com/in/danilo-vin%C3%ADcius-4ba802230/  
+- 💻 GitHub: https://github.com/danilocardoso-dev  
 
 ---
 
+> Building secure, scalable and maintainable systems.
