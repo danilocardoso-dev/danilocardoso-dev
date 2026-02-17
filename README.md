@@ -131,7 +131,7 @@ Security is not an afterthought in my projects — it is part of the architectur
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/danilo-vin%C3%ADcius-4ba802230/  
+- 💼 LinkedIn: https://www.linkedin.com/in/danilo-cardoso-4ba802230/ 
 - 💻 GitHub: https://github.com/danilocardoso-dev  
 
 ---
