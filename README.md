@@ -125,19 +125,7 @@ Security is not an afterthought in my projects — it is part of the architectur
 <br />
 <br />
 <br />
-<br />
-
----
-
-# 📑 Certifications
-
-- IBSEC - Linux Security  
-- IBSEC - Cybersecurity Best Practices  
-- IBSEC - SOC Analyst  
-- IBSEC - Pentester  
-- DESEC - Introduction to Pentesting  
-- Microsoft - SC-900 Security, Compliance, and Identity Fundamentals  
-- Sec4Us - Hacking Essentials  
+<br /> 
 
 ---
 
