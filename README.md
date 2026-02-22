@@ -117,8 +117,7 @@ Security is not an afterthought in my projects — it is part of the architectur
     align="left" 
     alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocardoso-dev&theme=tokyonight&layout=compact&langs_count=8" 
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocardoso-dev&theme=tokyonight&layout=compact&langs_count=8&v=1"  />
 </p>
 
 <br />
