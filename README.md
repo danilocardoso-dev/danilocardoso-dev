@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Danilo Cardoso
 
-**Full Stack JavaScript Engineer | Mobile Developer | Cybersecurity Specialist**
+**Software Engineer | Full Stack & Mobile | TypeScript, JavaScript, Node.js, React Native, React | REST APIs & SQL | Cybersecurity Background**
 
 ---
 
