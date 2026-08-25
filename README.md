@@ -111,24 +111,6 @@ Security is not an afterthought in my projects — it is part of the architectur
 
 ---
 
-# 📊 GitHub Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocardoso-dev&theme=tokyonight&layout=compact&langs_count=8&v=1"  />
-</p>
-
-<br />
-<br />
-<br />
-<br />
-<br /> 
-
----
-
 # 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/danilo-cardoso-4ba802230/ 
