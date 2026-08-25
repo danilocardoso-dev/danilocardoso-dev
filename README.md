@@ -6,14 +6,15 @@
 
 ## 🚀 About Me
 
-I am a Full Stack JavaScript engineer with strong backend foundations and a solid background in cybersecurity.
+I am a Software Engineer focused on building production-ready web and mobile applications, working across frontend, backend, APIs, databases, and application architecture.
 
-Currently focused on **mobile application development**, building scalable and secure solutions using modern technologies. I combine development expertise with security best practices to deliver reliable, production-ready systems.
+My main stack includes TypeScript, JavaScript, Node.js, React, React Native, REST APIs, and SQL/NoSQL databases.
 
-- 5+ years of experience in software development  
-- Strong backend architecture knowledge  
-- Mobile-first mindset  
-- Security-driven development approach  
+I have experience building applications end-to-end, from architecture and backend development to mobile implementation and production deployment.
+
+My background in Cybersecurity strengthens my approach to software development, with attention to authentication, authorization, data integrity, validation, and secure coding practices.
+
+I enjoy working close to the product, understanding real business problems, and turning requirements into scalable, maintainable, and reliable software.
 
 ---
 
